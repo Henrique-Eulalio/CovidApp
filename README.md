@@ -3,7 +3,7 @@
 CovidApp
 <br>
 <br>
-<img src="./src/images/gif.gif" width="200" height="400" title="=Tela Inicial">
+<img src="./src/images/gif.gif" width="200" height="400" title="Gif">
 </h1>
 
 <p align="center">Este projeto é um aplicativo contendo informações (fictícias) sobre o CoronaVírus. O intuito desse app é treinar algumas funções do React Native, e também, treinar o design de Apps.</p>
@@ -36,5 +36,5 @@ npm start
  
 <h2>Imagens do projeto final</h2>
 <h1 align="center">
-<img src="./src/images/Print1Covid.jpeg" width="150" title="=Tela Inicial"> <img src="./src/images/Print2Covid.jpeg" width="150" title="=Tela da Carteira"> 
+<img src="./src/images/Print1Covid.jpeg" width="150" title="Tela Inicial"> <img src="./src/images/Print2Covid.jpeg" width="150" title="Tela de Detalhes"> 
 </h1>
