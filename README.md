@@ -26,6 +26,7 @@ CovidApp
 <p>Clone esse projeto em seu computador e siga os seguintes passos:</p>
 
 ```
+# Não é necessário executar a linha abaixo caso você já possua o Expo (CLI) instalado.
 yarn global add install expo-cli
 npm install
 npm start
